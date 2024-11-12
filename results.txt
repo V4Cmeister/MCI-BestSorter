@@ -1,0 +1,5 @@
+Computer Name: ZeppelinLap
+Date of Test: 2024-11-13 00:01:05
+Bubble Sort Time: 28.776196 seconds
+Quick Sort Time: 0.114197 seconds
+
